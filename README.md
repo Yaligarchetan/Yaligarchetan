@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaligarchetan&layout=compact&theme=radical)
 
 
-[Live Demo of Project](https://chetan-aichatbot.netlify.app/)
+[Live Demo of Project] AI Chatbot App built using ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black),Gemini API(https://chetan-aichatbot.netlify.app/)
 
 ---
 
