@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chetan!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **React, Node.js, and Java-Spring Boot**.
@@ -21,15 +21,14 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api?Yaligarchetan=anuraghazra
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaligarchetan&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🌐 [Portfolio](https://yaligarchetan.github.io/Portfolio/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chetan-yaligar-32009526a/)
 - 🐦 [Twitter](https://twitter.com/yourusername)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 📧 [Email Me](chetanyaligar07@gmail.com)
