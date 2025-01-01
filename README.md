@@ -3,10 +3,10 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **React, Node.js, and Java-Spring Boot**.
+- 🌱 I’m currently learning **React, Node.js, and Java-Spring Boot development **.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 🤔 I’m exploring **AWS** and **UI/UX Design**.
-- 💬 Ask me about **JavaScript**, **Spring Boot**, or **MySQL**.
+- 🤔 I’m exploring **UI/UX Design**.
+- 💬 Ask me about **JavaScript**, **React**, **MySQL**,Nodejs
 - 📫 How to reach me: chetanyaligar07@gmail.com
 
 ---
