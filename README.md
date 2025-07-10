@@ -33,5 +33,5 @@
 ## 📫 Let's Connect
 - 🌐 [Portfolio](https://yaligarchetan.github.io/Portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chetan-yaligar-32009526a/)
-- 🐦 [Twitter](https://twitter.com/Yaligar Chetan)
+- 🐦 [Twitter](https://x.com/YaligarChetan?t=_4REzQczCqyw86ZKku7nYQ&s=09)
 - 📧 [Email Me](chetanyaligar07@gmail.com)
