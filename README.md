@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-- 🌱 I’m currently learning React, Node.js, and Java-Spring Boot development.
+- 🌱 I’m currently learning/Building projects on React/Node.js and Python/FastAPI projects.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m exploring **Java Development,React UI/UX Design**.
 - 💬 Ask me about **JavaScript**, **React**, **MySQL**,**Nodejs**
